@@ -2,7 +2,7 @@
 
 ### Vivo en Colombia – Cauca, amo los perritos y estoy aprendiendo a crear páginas web.
 
-Actualmente me encuentro realizando estudios universitarios en la carrera de Ingeniería de Sistemas y curso 6° semestre. Además complemento el estudio con cursos en línea de manera autodidacta, por lo que estoy realizando un _Bootcamp Full-stack JavaScript Developer_ con [**Undefined Academy**](https://undefined.academy/). Mi objetivo con todo esto es aprender y poder aplicar en el mundo del Frontend y Backend. Por lo tanto, muy pronto presentare mis proyectos que voy desarrollando y así puedas contactarme para hablar de tecnología, desarrollo web y perritos.
+Actualmente me encuentro realizando estudios universitarios en la carrera de Ingeniería de Sistemas y curso 6° semestre. Además complemento el estudio con cursos en línea de manera autodidacta, por lo que estoy realizando un _Bootcamp Full-stack JavaScript Developer_ con [**Undefined Academy**](https://undefined.academy/). Mi objetivo con todo esto es aprender y poder aplicar en el mundo del Frontend y Backend. Por lo tanto, muy pronto presentare mis proyectos que voya desarrollando y así puedas contactarme para hablar de tecnología, desarrollo web y perritos.
 
 ### _Tabla de comandos de la Terminal_
 
