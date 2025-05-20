@@ -1,8 +1,10 @@
 # ¡Hola! Soy Wilson Tumiña Tumiña 👍
 
-### Vivo en Colombia – Cauca, me gusta la tecnología y estoy aprendiendo a crear páginas web.
+### Vivo en Colombia – Cauca, me gusta la tecnología y soy ingeniero informático.
 
-Actualmente me encuentro realizando estudios universitarios en la carrera de Ingeniería de Sistemas y curso 8° semestre. Además complemento el estudio con cursos en línea de manera autodidacta, por lo que estoy realizando un _Bootcamp Full-stack JavaScript Developer_ con [**Undefined Academy**](https://undefined.academy/). Mi objetivo con todo esto es aprender y poder aplicar en el mundo del Frontend y Backend. Por lo tanto, muy pronto presentare mis proyectos que vaya desarrollando y así puedas contactarme para hablar de tecnología y desarrollo web.
+Actualmente soy desarrollador web y móvil y mi objetivo es aplicar soluciones en el ámbito del Frontend y Backend. Continúo en procesos de aprendizaje como complemento de estudio con cursos en línea de manera autodidacta. La programación día a día se actualiza, y más en estos tiempos con la integración de las Inteligencias Artificiales (IA), lo cual ha transformado incluso la forma en que interactuamos con la programación y la línea de comandos.
+En este orden de ideas, también estoy realizando un proyecto de investigación sobre el uso de la Inteligencia Artificial en el campo de la educación primaria, básica y media. ¡Puedes contactarme para hablar de tecnología, desarrollo web/móvil y el impacto de la IA!
+
 
 ### _Tabla de comandos de la Terminal_
 
