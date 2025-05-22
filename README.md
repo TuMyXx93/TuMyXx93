@@ -39,7 +39,7 @@ En este orden de ideas, también estoy realizando un proyecto de investigación 
 | `ping <host/IP>` | Envía paquetes ICMP ECHO_REQUEST a hosts de red. |
 | `ip addr` / `ifconfig` | Muestra y configura interfaces de red ( `ip addr` es más moderno). |
 
-**Nota:** Estos comandos son típicos de entornos Linux/Unix. Para Windows PowerShell, que es tu shell por defecto, existen cmdlets equivalentes (ej. `Get-ChildItem` o `dir` en lugar de `ls`, `Set-Location` o `cd` en lugar de `cd`, `Remove-Item` en lugar de `rm`).
+**Nota:** Estos comandos son típicos de entornos Linux/Unix. Para Windows PowerShell, existen cmdlets equivalentes (ej. `Get-ChildItem` o `dir` en lugar de `ls`, `Set-Location` o `cd` en lugar de `cd`, `Remove-Item` en lugar de `rm`).
 
 🙌 Para más detalles y comandos, puedes consultar:
 *   [Manual de Bash de GNU](https://www.gnu.org/software/bash/manual/bash.html) 📖
